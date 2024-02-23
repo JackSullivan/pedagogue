@@ -1,10 +1,10 @@
-baseurl: /tufte-jekyll
+baseurl: /pedagogue
 title: Tufte-Jekyll
 subtitle: Content-centric blogging
-author: clay harmon
+author: john sullivan
 simple_search: http://google.com/search
 description: A Jekyll theme for content-rich sites
-name: tufte
+name: pedagogue
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
@@ -20,8 +20,3 @@ page:
 editor: gvim
 git:
   branch: master
-transfer:
-  command: rsync
-  settings: -av
-  source: _site/
-  destination: ~/Git/clayh53.github.com/
