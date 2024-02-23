@@ -1,9 +1,8 @@
 baseurl: /pedagogue
-title: Tufte-Jekyll
-subtitle: Content-centric blogging
+title: Pedagogical Perigrinations
 author: john sullivan
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
+description: A place to organize resources and reflections on teaching and learning.
 name: pedagogue
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
