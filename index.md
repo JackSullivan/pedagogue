@@ -4,7 +4,7 @@ title: home
 order: 1
 ---
 
-<h1 class="content-listing-header sans">Pedagogical Perigrinations</h1>
+<h1 class="content-listing-header sans">Pedagogical Peregrinations</h1>
 
 A place to organize resources and reflections on teaching and learning.
 
@@ -21,7 +21,7 @@ favor of whatever I have in mind for her to do. She has no dearth of focus.
 She is dauntless in the face of setbacks, and setbacks are nearly incessant for a baby. At the moment, there is nothing
 she wants more keenly than to be able to walk, which entails a good number of hard falls, even with the ready hands of
 attendant parents close by. When she falls, she will sometimes cry for a moment or two, want a sip of her bottle, but
-soon afterwards is eager to start crawling again. She does not tire of failure, nor does it demoralize her.
+soon afterwards is eager to start trying again. She does not tire of failure, nor does it demoralize her.
 
 {%newthought 'She already has the habits' %} that are necessary for success in any field. They did not arrive in her by
 education, but they can certainly be suppressed by it. My purpose with this work is to ensure that that does not happen.
