@@ -4,6 +4,8 @@ title: resources
 order: 2
 ---
 
+[SMBC pedagogical koan](https://www.smbc-comics.com/comic/nice)
+
 ## Blog Posts/Articles
 
 - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
