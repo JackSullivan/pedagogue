@@ -13,7 +13,11 @@ order: 2
 - [Interview with a 5th Grade Dungeon Master](http://questingblog.com/interview-5th-grade-dungeon-master/)
 - [Learning is Vibes](https://www.experimental-history.com/p/youll-forget-most-of-what-you-learn)
 - [A Mathematician's Lament](https://maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf) (Essay version, there is also a short book)
+- [Supermemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
+- [CARDIAC](https://www.instructables.com/CARDIAC-CARDboard-Illustrative-Aid-to-Computation-/)
 
 ## Books
 
 - [Outside Lies Magic](https://www.goodreads.com/book/show/388804.Outside_Lies_Magic)
+- [Free to Learn](https://www.amazon.com/Free-Learn-Unleashing-Instinct-Self-Reliant/dp/0465025994)
+- [The Math Academy Way](https://www.justinmath.com/books/)
