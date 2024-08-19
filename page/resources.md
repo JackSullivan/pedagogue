@@ -15,6 +15,7 @@ order: 2
 - [A Mathematician's Lament](https://maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf) (Essay version, there is also a short book)
 - [Supermemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
 - [CARDIAC](https://www.instructables.com/CARDIAC-CARDboard-Illustrative-Aid-to-Computation-/)
+- [Punkx](https://punkx.org/) Has a bunch of analog programming games, including the unix pipes card game
 
 ## Books
 
