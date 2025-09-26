@@ -16,6 +16,8 @@ order: 2
 - [Supermemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
 - [CARDIAC](https://www.instructables.com/CARDIAC-CARDboard-Illustrative-Aid-to-Computation-/)
 - [Punkx](https://punkx.org/) Has a bunch of analog programming games, including the unix pipes card game
+- [Beyond Nature and Nurture](https://davidbessis.substack.com/p/beyond-nature-and-nurture)
+- [The Reggio Emilia Approach](https://en.wikipedia.org/wiki/Reggio_Emilia_approach)
 
 ## Books
 
